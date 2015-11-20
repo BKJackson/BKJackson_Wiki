@@ -1,5 +1,3 @@
-BKJackson Public Wiki
-===================
 Various links, scripts, files, notes, etc. that I find useful.
 
 ## [Contents](https://github.com/BKJackson/BKJackson_Public_Wiki/wiki)
