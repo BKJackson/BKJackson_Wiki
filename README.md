@@ -16,3 +16,4 @@ Various links, scripts, files, notes, etc. that I find useful.
 
 6. R
 
+7. Git (and Github)
