@@ -1,4 +1,4 @@
-Various links, scripts, files, notes, etc. that I find useful.
+Various links, scripts, files, and notes.
 
 ## [Contents](https://github.com/BKJackson/BKJackson_Public_Wiki/wiki)
 
