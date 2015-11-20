@@ -4,16 +4,15 @@ Various links, scripts, files, notes, etc. that I find useful and want to share.
 
 ## Contents
 
-### Python
+1. Python
 
-### Machine Learning
+2. Machine Learning
 
-### Geophysics
+3. Geophysics
 
-### Other Geoscience
+4. Other Geoscience
 
-### Mapping
+5. Mapping
 
-### R
-
+6. R
 
