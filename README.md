@@ -1,6 +1,6 @@
 BKJackson Public Wiki
 =================
-Various links, scripts, files, notes, etc. that I find useful and want to share.
+Various links, scripts, files, notes, etc. that I find useful.
 
 ## Contents
 
