@@ -1,4 +1,19 @@
-BKJackson_R_Files
+BKJackson Public Wiki
 =================
+Various links, scripts, files, notes, etc. that I find useful and want to share.
 
-Various scripts, files, notes, etc. about R
+## Contents
+
+### Python
+
+### Machine Learning
+
+### Geophysics
+
+### Other Geoscience
+
+### Mapping
+
+### R
+
+
