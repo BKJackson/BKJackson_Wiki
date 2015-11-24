@@ -6,7 +6,7 @@ Various links, scripts, files, and notes.
 
 2. [Machine Learning](https://github.com/BKJackson/BKJackson_Wiki/wiki/Machine-Learning)
 
-3. [Geology & Geophysics](https://github.com/BKJackson/BKJackson_Wiki/wiki/Geophysics)
+3. [Geology & Geophysics](https://github.com/BKJackson/BKJackson_Wiki/wiki/Geology-&-Geophysics)
 
 4. Mapping
 
