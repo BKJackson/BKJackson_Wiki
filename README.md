@@ -6,12 +6,10 @@ Various links, scripts, files, and notes.
 
 2. [Machine Learning](https://github.com/BKJackson/BKJackson_Wiki/wiki/Machine-Learning)
 
-3. Geophysics
+3. [Geology & Geophysics](https://github.com/BKJackson/BKJackson_Wiki/wiki/Geophysics)
 
-4. Other Geoscience
+4. Mapping
 
-5. Mapping
+5. [R](https://github.com/BKJackson/BKJackson_Wiki/wiki/R)
 
-6. [R](https://github.com/BKJackson/BKJackson_Wiki/wiki/R)
-
-7. Git (and Github)
+6. Git (and Github)
