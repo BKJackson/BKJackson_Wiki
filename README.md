@@ -12,4 +12,4 @@ Various links, scripts, files, and notes.
 
 5. [R](https://github.com/BKJackson/BKJackson_Wiki/wiki/R)
 
-6. Git (and Github)
+6. [Git (and Github)](https://github.com/BKJackson/BKJackson_Wiki/wiki/Git-and-Github)
