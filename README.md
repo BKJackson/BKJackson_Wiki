@@ -8,6 +8,8 @@ Various links, scripts, files, and notes.
 
 3. [Geology & Geophysics](https://github.com/BKJackson/BKJackson_Wiki/wiki/Geology-&-Geophysics)
 
-4. [R](https://github.com/BKJackson/BKJackson_Wiki/wiki/R)
+4. [Writing & LaTeX](https://github.com/BKJackson/BKJackson_Wiki/wiki/Writing-&-LaTeX)  
 
-5. [Git and Github](https://github.com/BKJackson/BKJackson_Wiki/wiki/Git-and-Github)
+5. [R](https://github.com/BKJackson/BKJackson_Wiki/wiki/R)
+
+6. [Git and Github](https://github.com/BKJackson/BKJackson_Wiki/wiki/Git-and-Github)  
