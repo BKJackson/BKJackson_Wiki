@@ -16,4 +16,4 @@ Various links, scripts, files, and notes.
 
 7. [C and C++ Programming](https://github.com/BKJackson/BKJackson_Wiki/wiki/C-and-Cpp--Programming)  
 
-8. [Web Development](https://github.com/BKJackson/BKJackson_Wiki/wiki/Web-Development)  
+8. [JavaScript](https://github.com/BKJackson/BKJackson_Wiki/wiki/JavaScript)  
